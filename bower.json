@@ -1,0 +1,25 @@
+{
+  "name": "task",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Haiker <mr.haiker@mail.ru>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "normalize-css": "~3.0.3",
+    "font-awesome": "fontawesome#~4.5.0",
+    "Boostrap Grid": "bootstrap-grid-css#*"
+  }
+}
